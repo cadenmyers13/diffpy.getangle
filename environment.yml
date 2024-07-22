@@ -1,0 +1,6 @@
+name: diffpy.getangle
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - pip
