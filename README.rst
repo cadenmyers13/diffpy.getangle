@@ -35,7 +35,7 @@
 .. |Tracking| image:: https://img.shields.io/badge/issue_tracking-github-blue
         :target: https://github.com/diffpy/diffpy.getangle/issues
 
-Python package to extract rotation angle from a series of ddiffraction patterns with hexagonal symmetry
+Python package to extract rotation angle from a series of diffraction patterns with hexagonal symmetry.
 
 * LONGER DESCRIPTION HERE
 
